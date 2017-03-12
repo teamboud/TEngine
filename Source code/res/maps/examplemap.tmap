@@ -1,0 +1,63 @@
+Terrain: 1024 grassTI walkway grass2 sea heightMapRoad blendMapRoad
+Light: -70000,10000,70000 0.6,0.6,0.6
+//Light: 70000,10000,70000 2,2,2
+/AttLight: 1,1,1 1,1,1 0.3,0.0001,0.0005
+AttLight: 860,49,275 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,325 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,375 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,425 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,475 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,525 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,575 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,625 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,675 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,725 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,775 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 860,49,825 1,0.5,0 0.3,0.0001,0.0005
+Entity: fireplace fireplace 306,24,341
+Entity: Darth_Sidious Darth_Sidious_D 50,50,50
+Entity: lamp lamp 860,37,275 
+Entity: lamp lamp 860,37,325
+Entity: lamp lamp 860,37,375
+Entity: lamp lamp 860,37,425
+Entity: lamp lamp 860,37,475
+Entity: lamp lamp 860,37,525
+Entity: lamp lamp 860,37,575
+Entity: lamp lamp 860,37,625
+Entity: lamp lamp 860,37,675
+Entity: lamp lamp 860,37,725
+Entity: lamp lamp 860,37,775
+Entity: lamp lamp 860,37,825
+AttLight: 950,49,275 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,325 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,375 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,425 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,475 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,525 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,575 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,625 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,675 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,725 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,775 1,0.5,0 0.3,0.0001,0.0005
+AttLight: 950,49,825 1,0.5,0 0.3,0.0001,0.0005
+Entity: lamp lamp 950,37,275 
+Entity: lamp lamp 950,37,325
+Entity: lamp lamp 950,37,375
+Entity: lamp lamp 950,37,425
+Entity: lamp lamp 950,37,475
+Entity: lamp lamp 950,37,525
+Entity: lamp lamp 950,37,575
+Entity: lamp lamp 950,37,625
+Entity: lamp lamp 950,37,675
+Entity: lamp lamp 950,37,725
+Entity: lamp lamp 950,37,775
+Entity: lamp lamp 950,37,825
+//Entity: rocks rocks 512,30,512 512
+normalEntity: barrel barrel barrelNormal 424,25,86
+normalEntity: boulder boulder boulderNormal 373,13,451
+Water: 474,466,4
+Water: 90,850,4
+Water: 218,594,4
+normalEntity: crate crate crateNormal 900,50,700 0.1
+AEntity: lowPolyTree lowPolyTree 900,25,950 7
+END

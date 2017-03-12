@@ -1,0 +1,14 @@
+Terrain: 1024 AD7_MorgueFloor1a_cis AD7_MorgueFloor1a_cis AD7_MorgueFloor1a_cis AD7_MorgueFloor1a_cis heightmap4 blendmapOWN
+Light: 70000,10000,70000 1.5,1.5,1.5
+AttLight: 1,1,1 1,1,1 0.3,0.0001,0.002
+AttLight: 100,0,0 1,1,1 0.3,0.0001f,0.002
+Entity: fireplace fireplace 306,24,341
+Entity: Darth_Sidious Darth_Sidious_D 50,50,50
+Entity: streetlamp 1 53,20,32
+//Entity: rocks rocks 512,30,512 512
+normalEntity: barrel barrel barrelNormal 424,25,86
+normalEntity: boulder boulder boulderNormal 373,13,451
+Water: 474,466,4
+Water: 90,850,4
+Water: 218,594,4
+END
